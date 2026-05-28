@@ -1,2 +1,1 @@
-# Rishitha_Donthiri
-Hi there, I'm Rishitha Donthiri 👋
+I'm an AI/ML enthusiast focused on building end-to-end machine learning pipelines. Currently developing automated reasoning annotation systems for autonomous driving datasets using Vision-Language Models. I love turning research ideas into working systems.
